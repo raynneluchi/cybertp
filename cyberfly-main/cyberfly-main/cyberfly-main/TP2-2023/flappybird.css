@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'crystal';
+    src: url('fontes/cyberfont.ttf') format('truetype');
+}
+body {
+    font-family:crystal;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#board {
+
+    background-image: url(img/im.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
